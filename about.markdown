@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 100 words
+title: About 150 words
 permalink: /about/
 ---
 
